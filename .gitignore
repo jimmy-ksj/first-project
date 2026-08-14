@@ -1,0 +1,41 @@
+/node_modules
+/.env
+/dist
+/build
+/.cache
+/.DS_Store
+coverage
+npm-debug.log*
+.yarn-integrity
+coverage/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+logs
+*.log
+pids
+*.pid
+*.seed
+
+# Mac
+*.DS_Store
+
+# Docker
+docker-compose.override.yml
+
+# Build folders
+**/build
+**/dist
+
+# OS files
+Thumbs.db
+
+# IDE
+.vscode
+.idea
